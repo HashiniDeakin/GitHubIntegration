@@ -5,7 +5,7 @@ pipeline {
       steps {
         // Task: Build the code using a build automation tool to compile and package
         // Tool: Maven
-// This is edited to check commit trigger for the demo
+// Added this comment to check commit trigger
       }
     }
     stage('Unit and Integration Tests') {
