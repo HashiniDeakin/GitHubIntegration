@@ -5,6 +5,7 @@ pipeline {
       steps {
         // Task: Build the code using a build automation tool to compile and package
         // Tool: Maven
+        // Edited to check the pipeline after a new comment
       }
     }
     stage('Unit and Integration Tests') {
